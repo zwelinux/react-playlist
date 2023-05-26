@@ -51,4 +51,5 @@ img {
     font-size: 1em;
     font-style: italic;
     font-stretch: extra-condensed;
+    border-radius: 10px;
 }
